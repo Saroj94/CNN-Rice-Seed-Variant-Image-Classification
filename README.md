@@ -75,6 +75,6 @@ To install `kaggle` if not already present:
 ```
 
 ## Future work
-Hyperparameter tuing would be the next step to perform for better performance of the model.
+Hyperparameter tuining would be the next step to perform for better performance of the model.
 
 **Note**: The notebook includes checks for corrupted images, although none were found in the provided dataset.
